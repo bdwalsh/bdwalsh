@@ -1,16 +1,11 @@
-## Hi there 👋
+### About
+- 📷 **Frontend Software Engineer**: I'm a frontend engineer currently working at Pixieset https://pixieset.com/
+- ♥️ **Tools I love**: Typescript (can't live without it), Vue (I love solving component puzzles) and Jest
+- 🎹 **Hobbies**: I love music, hiking and falling down on my snowboard
 
-<!--
-**bdwalsh/bdwalsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Micro project I have worked on
+* **[tire-and-crank](https://github.com/bdwalsh/Tire-and-Crank)** - Bike part store
+* **[siesta](https://github.com/bdwalsh/Siesta)** - App for finding nap spots around university campus
+  
+### Contact
+- Email: bdwalsh075@gmail.com
